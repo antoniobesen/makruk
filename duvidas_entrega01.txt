@@ -1,0 +1,7 @@
+1- Placar e mudança de cor não podem ser requisitos funcionais?
+
+2- O diagrama de classes deverá ser aprimorado?
+
+3- Os protótipos das telas devem ser refeitos?
+
+4- O que colocar nas regras de negócio de um jogo se as regras devem estar na sessão 1?
