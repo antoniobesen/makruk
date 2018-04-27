@@ -8,6 +8,8 @@ deve haver uma guarda junto ao gatilho?
 
 ---- duvidas a partir de quinta-feira ----
 
+1- Pensar: Quando um objeto chama o método de algum outro objeto e na execução desse método ele chama um método do objeto anterior, mas aquela execução ainda não acabou, então provavelmente deve ser um método sobreposto.
+
 
 
 
