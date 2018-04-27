@@ -1,20 +1,6 @@
-1- Ja devo criar as classes AtorJogador e AtorNetgames para fazer os diagramas de sequencia?
+1- Devo colocar as classes do NetGames (além do AtorNetGames) no diagrama de classes?
 
-2- Em um exemplo de diagrama de sequencia, o AtorJogador está como ator (boneco).
-
-3- Os protótipos das telas devem ser refeitos?
-
-4- Por que os dois pontos antes do nome das classes?
-
-5- Em alguns exs de SD, depois de algum método que guardava alguma variavel, havia especificação
-do tipo, deve-se fazer isso?
-
-6- Já é necessário se preocupar com as telas? Instanciar tabuleiro etc?
-
-7- Acho que o maior problema conceitual que estou tendo é em relação aos atores e as interfaces gráficas.
-
-8- No diagrama de seq deve ter uma msg perdida no fim sempre?
-
+2- O parâmetro nome em conectar é referente a um nome de identificação do cliente?
 
 
 6- Na modelagem do diagrama de maquina de estados, sempre que houver duas transições saindo de um estado 
@@ -22,9 +8,7 @@ deve haver uma guarda junto ao gatilho?
 
 ---- duvidas a partir de quinta-feira ----
 
-1- como criar variaveis (nao atributos) para armazenar valores do metodos?
 
-2- é via constraints que se define as condições para cada parte do fragmento combinado alt?
 
 
 
