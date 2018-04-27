@@ -13,12 +13,18 @@ do tipo, deve-se fazer isso?
 
 7- Acho que o maior problema conceitual que estou tendo é em relação aos atores e as interfaces gráficas.
 
+8- No diagrama de seq deve ter uma msg perdida no fim sempre?
 
 
-5- Deve ter a classe Jogador E AtorJogador? Jogador com as caracteristicas do jogador dentro do jogo e AtorJogador com as caracteristicas que ligam o jogador à interface/a tela que o jogador vê?
 
 6- Na modelagem do diagrama de maquina de estados, sempre que houver duas transições saindo de um estado 
 deve haver uma guarda junto ao gatilho?
+
+---- duvidas a partir de quinta-feira ----
+
+1- como criar variaveis (nao atributos) para armazenar valores do metodos?
+
+2- é via constraints que se define as condições para cada parte do fragmento combinado alt?
 
 
 
